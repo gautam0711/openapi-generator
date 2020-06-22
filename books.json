@@ -1,0 +1,9 @@
+[
+    {
+        "id" : 1,
+        "bookname" : "harry potter",
+        "authorname" : "jon miller",
+        "catagory" : "magic thriller",
+        "price" : "25$"
+    }
+]
